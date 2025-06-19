@@ -1,0 +1,60 @@
+[ae_data_256_0.05] Config 1
+Test Accuracy: 79.73%
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.77      0.55      0.64       734
+           benigno       0.97      0.96      0.97       728
+carcinoma squamoso       0.69      0.87      0.77       788
+
+          accuracy                           0.80      2250
+         macro avg       0.81      0.80      0.79      2250
+      weighted avg       0.81      0.80      0.79      2250
+
+Confusion Matrix:
+[[403  22 309]
+ [ 23 702   3]
+ [ 99   0 689]]
+adenocarcinoma Specificity: 0.9195
+benigno Specificity: 0.9855
+carcinoma squamoso Specificity: 0.7866
+================================================================================
+[ae_data_256_0.05] Config 2
+Test Accuracy: 77.51%
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.73      0.50      0.59       734
+           benigno       0.98      0.95      0.97       728
+carcinoma squamoso       0.66      0.86      0.75       788
+
+          accuracy                           0.78      2250
+         macro avg       0.79      0.77      0.77      2250
+      weighted avg       0.78      0.78      0.77      2250
+
+Confusion Matrix:
+[[370  14 350]
+ [ 31 695   2]
+ [109   0 679]]
+adenocarcinoma Specificity: 0.9077
+benigno Specificity: 0.9908
+carcinoma squamoso Specificity: 0.7592
+================================================================================
+[ae_data_256_0.05] Config 3
+Test Accuracy: 74.00%
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.61      0.57      0.59       734
+           benigno       0.98      0.95      0.97       728
+carcinoma squamoso       0.65      0.70      0.67       788
+
+          accuracy                           0.74      2250
+         macro avg       0.75      0.74      0.74      2250
+      weighted avg       0.74      0.74      0.74      2250
+
+Confusion Matrix:
+[[421  11 302]
+ [ 33 695   0]
+ [239   0 549]]
+adenocarcinoma Specificity: 0.8206
+benigno Specificity: 0.9928
+carcinoma squamoso Specificity: 0.7934
+================================================================================
