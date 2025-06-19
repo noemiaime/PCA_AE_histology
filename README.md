@@ -1,5 +1,6 @@
-# DAML-project
-DATA FOR CNN MODELS STUDY: The data used for the CNN models study are the following: https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images  (CT scans), https://www.kaggle.com/datasets/rm1000/lung-cancer-histopathological-images (histopathological images).
-To reproduce correctly the code remember to follow the structure you can deduce from the code, specifically the CT images need to be in a folder named data_images inside your cloned repository and the histopathological images in a folder named data_histo inside your cloned repository.
+# PCA_AE_histology
+Questo progetto nasce per confrontare PCA e encoder come strumenti di compressione, su immagini istologiche di tumori ai polmoni. Viene presentato come progetto d'esame al corso "Data Analysis with Machine Learning in Experimental Physics" del Professore Paolo Meridiani.
 
-REPO INFO: The following repository has a .gitignore file for the raw data and other type of files to avoid to push heavy data, you can find all material in the following drive folder: https://drive.google.com/drive/folders/1XRSLRCFWycCtCov4FOXBOpgG6rTMfnXu?usp=sharing .
+La seguente repository presenta un file .gitignore che permette di non caricare i dati raw e altri file pesanti. Per questo motivo i dati processati sono disponibili al seguente drive nel caso si volessero riprodurre i risultati senza partire dai primi script: https://drive.google.com/drive/folders/1kRaWsLcl3BmpR4DKTBF321qoJ5_01fML?usp=sharing. 
+Mentre i dati raw utilizzati sono al seguente link: https://www.kaggle.com/datasets/rm1000/lung-cancer-histopathological-images.
+Per riprodurre correttamente i codici si ricorda di seguire la struttura che si può dedurre dal codice, di preciso il dataset necessita di essere posto all'interno della cartella data_histo.
