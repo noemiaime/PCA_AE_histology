@@ -1,1 +1,1 @@
-Config 1 | Acc: 85.82% | Dropout: 0.7 | Layers: [1024, 512, 256, 128, 64, 32]
+Config 1 | Acc: 71.16% | Dropout: 0.0 | Layers: [64]
