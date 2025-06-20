@@ -5257,3 +5257,1201 @@ Fold Accuracy: 74.74%
 [pca_data_2342_0.05] Config 15 - SUMMARY
 Mean Fold Accuracy: 75.16% ± 0.77
 ====================================================================================================
+[pca_data_2342_0.05] Config 1 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.62      0.62      0.62       861
+            beigno       0.87      0.89      0.88       855
+carcinoma squamoso       0.66      0.65      0.65       862
+
+          accuracy                           0.72      2578
+         macro avg       0.72      0.72      0.72      2578
+      weighted avg       0.72      0.72      0.72      2578
+
+Fold Accuracy: 71.92%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 1 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.62      0.61      0.61       861
+            beigno       0.86      0.90      0.88       855
+carcinoma squamoso       0.64      0.62      0.63       862
+
+          accuracy                           0.71      2578
+         macro avg       0.71      0.71      0.71      2578
+      weighted avg       0.71      0.71      0.71      2578
+
+Fold Accuracy: 70.83%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 1 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.60      0.62      0.61       862
+            beigno       0.88      0.90      0.89       854
+carcinoma squamoso       0.67      0.62      0.64       862
+
+          accuracy                           0.71      2578
+         macro avg       0.71      0.72      0.71      2578
+      weighted avg       0.71      0.71      0.71      2578
+
+Fold Accuracy: 71.49%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 1 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.63      0.63      0.63       862
+            beigno       0.87      0.90      0.88       854
+carcinoma squamoso       0.66      0.63      0.64       861
+
+          accuracy                           0.72      2577
+         macro avg       0.72      0.72      0.72      2577
+      weighted avg       0.72      0.72      0.72      2577
+
+Fold Accuracy: 72.14%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 1 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.62      0.58      0.60       862
+            beigno       0.88      0.90      0.89       854
+carcinoma squamoso       0.64      0.67      0.65       861
+
+          accuracy                           0.72      2577
+         macro avg       0.71      0.72      0.72      2577
+      weighted avg       0.71      0.72      0.71      2577
+
+Fold Accuracy: 71.63%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 1 - SUMMARY
+Mean Fold Accuracy: 71.60% ± 0.45
+====================================================================================================
+[pca_data_2342_0.05] Config 2 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.65      0.54      0.59       861
+            beigno       0.86      0.89      0.87       855
+carcinoma squamoso       0.63      0.71      0.66       862
+
+          accuracy                           0.71      2578
+         macro avg       0.71      0.71      0.71      2578
+      weighted avg       0.71      0.71      0.71      2578
+
+Fold Accuracy: 71.26%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 2 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.61      0.63      0.62       861
+            beigno       0.86      0.89      0.88       855
+carcinoma squamoso       0.65      0.61      0.63       862
+
+          accuracy                           0.71      2578
+         macro avg       0.71      0.71      0.71      2578
+      weighted avg       0.71      0.71      0.71      2578
+
+Fold Accuracy: 71.14%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 2 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.64      0.60      0.62       862
+            beigno       0.87      0.90      0.88       854
+carcinoma squamoso       0.65      0.66      0.66       862
+
+          accuracy                           0.72      2578
+         macro avg       0.72      0.72      0.72      2578
+      weighted avg       0.72      0.72      0.72      2578
+
+Fold Accuracy: 72.19%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 2 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.63      0.66      0.64       862
+            beigno       0.88      0.89      0.89       854
+carcinoma squamoso       0.67      0.63      0.65       861
+
+          accuracy                           0.73      2577
+         macro avg       0.73      0.73      0.73      2577
+      weighted avg       0.73      0.73      0.73      2577
+
+Fold Accuracy: 72.68%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 2 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.62      0.59      0.60       862
+            beigno       0.87      0.91      0.89       854
+carcinoma squamoso       0.66      0.66      0.66       861
+
+          accuracy                           0.72      2577
+         macro avg       0.72      0.72      0.72      2577
+      weighted avg       0.72      0.72      0.72      2577
+
+Fold Accuracy: 71.94%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 2 - SUMMARY
+Mean Fold Accuracy: 71.84% ± 0.58
+====================================================================================================
+[pca_data_2342_0.05] Config 3 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.67      0.63      0.65       861
+            beigno       0.86      0.93      0.89       855
+carcinoma squamoso       0.68      0.67      0.68       862
+
+          accuracy                           0.74      2578
+         macro avg       0.74      0.74      0.74      2578
+      weighted avg       0.74      0.74      0.74      2578
+
+Fold Accuracy: 74.17%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 3 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.60      0.62      0.61       861
+            beigno       0.86      0.90      0.88       855
+carcinoma squamoso       0.65      0.60      0.62       862
+
+          accuracy                           0.70      2578
+         macro avg       0.70      0.71      0.70      2578
+      weighted avg       0.70      0.70      0.70      2578
+
+Fold Accuracy: 70.48%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 3 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.62      0.69      0.65       862
+            beigno       0.88      0.92      0.90       854
+carcinoma squamoso       0.69      0.58      0.63       862
+
+          accuracy                           0.73      2578
+         macro avg       0.73      0.73      0.73      2578
+      weighted avg       0.73      0.73      0.73      2578
+
+Fold Accuracy: 73.04%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 3 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.66      0.59      0.62       862
+            beigno       0.88      0.91      0.90       854
+carcinoma squamoso       0.65      0.69      0.67       861
+
+          accuracy                           0.73      2577
+         macro avg       0.73      0.73      0.73      2577
+      weighted avg       0.73      0.73      0.73      2577
+
+Fold Accuracy: 73.22%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 3 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.63      0.60      0.62       862
+            beigno       0.88      0.92      0.90       854
+carcinoma squamoso       0.64      0.64      0.64       861
+
+          accuracy                           0.72      2577
+         macro avg       0.72      0.72      0.72      2577
+      weighted avg       0.72      0.72      0.72      2577
+
+Fold Accuracy: 72.06%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 3 - SUMMARY
+Mean Fold Accuracy: 72.59% ± 1.25
+====================================================================================================
+[pca_data_2342_0.05] Config 4 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.66      0.64      0.65       861
+            beigno       0.89      0.92      0.91       855
+carcinoma squamoso       0.68      0.68      0.68       862
+
+          accuracy                           0.75      2578
+         macro avg       0.74      0.75      0.75      2578
+      weighted avg       0.74      0.75      0.75      2578
+
+Fold Accuracy: 74.67%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 4 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.64      0.60      0.62       861
+            beigno       0.87      0.91      0.89       855
+carcinoma squamoso       0.66      0.67      0.67       862
+
+          accuracy                           0.72      2578
+         macro avg       0.72      0.73      0.72      2578
+      weighted avg       0.72      0.72      0.72      2578
+
+Fold Accuracy: 72.50%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 4 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.64      0.65      0.64       862
+            beigno       0.90      0.88      0.89       854
+carcinoma squamoso       0.68      0.69      0.69       862
+
+          accuracy                           0.74      2578
+         macro avg       0.74      0.74      0.74      2578
+      weighted avg       0.74      0.74      0.74      2578
+
+Fold Accuracy: 73.78%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 4 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.68      0.63      0.65       862
+            beigno       0.89      0.91      0.90       854
+carcinoma squamoso       0.68      0.71      0.70       861
+
+          accuracy                           0.75      2577
+         macro avg       0.75      0.75      0.75      2577
+      weighted avg       0.75      0.75      0.75      2577
+
+Fold Accuracy: 74.93%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 4 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.65      0.57      0.61       862
+            beigno       0.86      0.92      0.89       854
+carcinoma squamoso       0.66      0.70      0.67       861
+
+          accuracy                           0.73      2577
+         macro avg       0.72      0.73      0.73      2577
+      weighted avg       0.72      0.73      0.72      2577
+
+Fold Accuracy: 72.84%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 4 - SUMMARY
+Mean Fold Accuracy: 73.74% ± 0.96
+====================================================================================================
+[pca_data_2342_0.05] Config 5 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.66      0.60      0.63       861
+            beigno       0.91      0.88      0.89       855
+carcinoma squamoso       0.65      0.73      0.69       862
+
+          accuracy                           0.74      2578
+         macro avg       0.74      0.74      0.74      2578
+      weighted avg       0.74      0.74      0.74      2578
+
+Fold Accuracy: 73.78%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 5 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.67      0.59      0.62       861
+            beigno       0.86      0.93      0.89       855
+carcinoma squamoso       0.66      0.70      0.68       862
+
+          accuracy                           0.74      2578
+         macro avg       0.73      0.74      0.73      2578
+      weighted avg       0.73      0.74      0.73      2578
+
+Fold Accuracy: 73.66%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 5 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.63      0.67      0.65       862
+            beigno       0.88      0.91      0.89       854
+carcinoma squamoso       0.70      0.64      0.67       862
+
+          accuracy                           0.74      2578
+         macro avg       0.74      0.74      0.74      2578
+      weighted avg       0.74      0.74      0.74      2578
+
+Fold Accuracy: 73.93%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 5 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.69      0.61      0.65       862
+            beigno       0.89      0.93      0.91       854
+carcinoma squamoso       0.68      0.73      0.70       861
+
+          accuracy                           0.75      2577
+         macro avg       0.75      0.75      0.75      2577
+      weighted avg       0.75      0.75      0.75      2577
+
+Fold Accuracy: 75.36%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 5 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.66      0.57      0.61       862
+            beigno       0.90      0.93      0.92       854
+carcinoma squamoso       0.65      0.72      0.68       861
+
+          accuracy                           0.74      2577
+         macro avg       0.74      0.74      0.74      2577
+      weighted avg       0.74      0.74      0.74      2577
+
+Fold Accuracy: 73.88%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 5 - SUMMARY
+Mean Fold Accuracy: 74.12% ± 0.62
+====================================================================================================
+[pca_data_2342_0.05] Config 6 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.69      0.65      0.67       861
+            beigno       0.90      0.91      0.90       855
+carcinoma squamoso       0.70      0.73      0.71       862
+
+          accuracy                           0.76      2578
+         macro avg       0.76      0.76      0.76      2578
+      weighted avg       0.76      0.76      0.76      2578
+
+Fold Accuracy: 76.18%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 6 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.65      0.64      0.65       861
+            beigno       0.92      0.87      0.90       855
+carcinoma squamoso       0.66      0.70      0.68       862
+
+          accuracy                           0.74      2578
+         macro avg       0.74      0.74      0.74      2578
+      weighted avg       0.74      0.74      0.74      2578
+
+Fold Accuracy: 73.86%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 6 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.66      0.58      0.62       862
+            beigno       0.94      0.87      0.90       854
+carcinoma squamoso       0.65      0.77      0.70       862
+
+          accuracy                           0.74      2578
+         macro avg       0.75      0.74      0.74      2578
+      weighted avg       0.75      0.74      0.74      2578
+
+Fold Accuracy: 73.89%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 6 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.66      0.66      0.66       862
+            beigno       0.90      0.90      0.90       854
+carcinoma squamoso       0.69      0.69      0.69       861
+
+          accuracy                           0.75      2577
+         macro avg       0.75      0.75      0.75      2577
+      weighted avg       0.75      0.75      0.75      2577
+
+Fold Accuracy: 75.28%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 6 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.69      0.54      0.60       862
+            beigno       0.87      0.95      0.91       854
+carcinoma squamoso       0.66      0.74      0.70       861
+
+          accuracy                           0.74      2577
+         macro avg       0.74      0.74      0.73      2577
+      weighted avg       0.74      0.74      0.73      2577
+
+Fold Accuracy: 74.08%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 6 - SUMMARY
+Mean Fold Accuracy: 74.66% ± 0.92
+====================================================================================================
+[pca_data_2342_0.05] Config 7 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.68      0.70      0.69       861
+            beigno       0.93      0.90      0.92       855
+carcinoma squamoso       0.71      0.70      0.71       862
+
+          accuracy                           0.77      2578
+         macro avg       0.77      0.77      0.77      2578
+      weighted avg       0.77      0.77      0.77      2578
+
+Fold Accuracy: 76.84%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 7 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.68      0.60      0.64       861
+            beigno       0.90      0.90      0.90       855
+carcinoma squamoso       0.66      0.74      0.70       862
+
+          accuracy                           0.75      2578
+         macro avg       0.75      0.75      0.75      2578
+      weighted avg       0.75      0.75      0.75      2578
+
+Fold Accuracy: 74.67%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 7 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.68      0.58      0.62       862
+            beigno       0.90      0.92      0.91       854
+carcinoma squamoso       0.66      0.74      0.70       862
+
+          accuracy                           0.75      2578
+         macro avg       0.75      0.75      0.74      2578
+      weighted avg       0.75      0.75      0.74      2578
+
+Fold Accuracy: 74.63%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 7 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.68      0.62      0.65       862
+            beigno       0.90      0.92      0.91       854
+carcinoma squamoso       0.68      0.73      0.70       861
+
+          accuracy                           0.75      2577
+         macro avg       0.75      0.76      0.75      2577
+      weighted avg       0.75      0.75      0.75      2577
+
+Fold Accuracy: 75.48%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 7 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.68      0.50      0.57       862
+            beigno       0.92      0.92      0.92       854
+carcinoma squamoso       0.62      0.78      0.69       861
+
+          accuracy                           0.73      2577
+         macro avg       0.74      0.73      0.73      2577
+      weighted avg       0.74      0.73      0.73      2577
+
+Fold Accuracy: 73.07%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 7 - SUMMARY
+Mean Fold Accuracy: 74.94% ± 1.23
+====================================================================================================
+[pca_data_2342_0.05] Config 8 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.71      0.62      0.66       861
+            beigno       0.86      0.95      0.90       855
+carcinoma squamoso       0.70      0.73      0.72       862
+
+          accuracy                           0.76      2578
+         macro avg       0.76      0.76      0.76      2578
+      weighted avg       0.76      0.76      0.76      2578
+
+Fold Accuracy: 76.26%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 8 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.66      0.63      0.65       861
+            beigno       0.89      0.91      0.90       855
+carcinoma squamoso       0.68      0.70      0.69       862
+
+          accuracy                           0.75      2578
+         macro avg       0.74      0.75      0.74      2578
+      weighted avg       0.74      0.75      0.74      2578
+
+Fold Accuracy: 74.52%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 8 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.65      0.65      0.65       862
+            beigno       0.90      0.89      0.89       854
+carcinoma squamoso       0.69      0.70      0.70       862
+
+          accuracy                           0.74      2578
+         macro avg       0.75      0.75      0.75      2578
+      weighted avg       0.75      0.74      0.75      2578
+
+Fold Accuracy: 74.48%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 8 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.68      0.64      0.66       862
+            beigno       0.91      0.90      0.91       854
+carcinoma squamoso       0.68      0.73      0.71       861
+
+          accuracy                           0.76      2577
+         macro avg       0.76      0.76      0.76      2577
+      weighted avg       0.76      0.76      0.76      2577
+
+Fold Accuracy: 75.67%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 8 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.65      0.57      0.61       862
+            beigno       0.90      0.90      0.90       854
+carcinoma squamoso       0.64      0.71      0.68       861
+
+          accuracy                           0.73      2577
+         macro avg       0.73      0.73      0.73      2577
+      weighted avg       0.73      0.73      0.73      2577
+
+Fold Accuracy: 72.95%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 8 - SUMMARY
+Mean Fold Accuracy: 74.77% ± 1.14
+====================================================================================================
+[pca_data_2342_0.05] Config 9 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.67      0.63      0.65       861
+            beigno       0.88      0.94      0.91       855
+carcinoma squamoso       0.70      0.69      0.70       862
+
+          accuracy                           0.75      2578
+         macro avg       0.75      0.75      0.75      2578
+      weighted avg       0.75      0.75      0.75      2578
+
+Fold Accuracy: 75.45%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 9 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.65      0.65      0.65       861
+            beigno       0.91      0.89      0.90       855
+carcinoma squamoso       0.68      0.70      0.69       862
+
+          accuracy                           0.74      2578
+         macro avg       0.75      0.74      0.75      2578
+      weighted avg       0.75      0.74      0.74      2578
+
+Fold Accuracy: 74.40%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 9 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.66      0.57      0.61       862
+            beigno       0.87      0.93      0.90       854
+carcinoma squamoso       0.66      0.71      0.69       862
+
+          accuracy                           0.74      2578
+         macro avg       0.73      0.74      0.73      2578
+      weighted avg       0.73      0.74      0.73      2578
+
+Fold Accuracy: 73.62%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 9 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.70      0.62      0.66       862
+            beigno       0.90      0.91      0.91       854
+carcinoma squamoso       0.68      0.75      0.72       861
+
+          accuracy                           0.76      2577
+         macro avg       0.76      0.76      0.76      2577
+      weighted avg       0.76      0.76      0.76      2577
+
+Fold Accuracy: 76.17%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 9 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.64      0.64      0.64       862
+            beigno       0.94      0.89      0.91       854
+carcinoma squamoso       0.66      0.69      0.68       861
+
+          accuracy                           0.74      2577
+         macro avg       0.75      0.74      0.75      2577
+      weighted avg       0.75      0.74      0.74      2577
+
+Fold Accuracy: 74.27%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 9 - SUMMARY
+Mean Fold Accuracy: 74.78% ± 0.91
+====================================================================================================
+[pca_data_2342_0.05] Config 10 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.71      0.62      0.66       861
+            beigno       0.90      0.92      0.91       855
+carcinoma squamoso       0.69      0.76      0.72       862
+
+          accuracy                           0.77      2578
+         macro avg       0.77      0.77      0.76      2578
+      weighted avg       0.77      0.77      0.76      2578
+
+Fold Accuracy: 76.57%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 10 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.67      0.58      0.62       861
+            beigno       0.91      0.89      0.90       855
+carcinoma squamoso       0.65      0.74      0.69       862
+
+          accuracy                           0.74      2578
+         macro avg       0.74      0.74      0.74      2578
+      weighted avg       0.74      0.74      0.74      2578
+
+Fold Accuracy: 73.82%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 10 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.66      0.59      0.63       862
+            beigno       0.92      0.88      0.90       854
+carcinoma squamoso       0.64      0.74      0.69       862
+
+          accuracy                           0.74      2578
+         macro avg       0.74      0.74      0.74      2578
+      weighted avg       0.74      0.74      0.74      2578
+
+Fold Accuracy: 73.70%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 10 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.69      0.61      0.65       862
+            beigno       0.90      0.92      0.91       854
+carcinoma squamoso       0.68      0.74      0.71       861
+
+          accuracy                           0.76      2577
+         macro avg       0.76      0.76      0.76      2577
+      weighted avg       0.76      0.76      0.76      2577
+
+Fold Accuracy: 75.75%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 10 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.68      0.57      0.62       862
+            beigno       0.90      0.93      0.91       854
+carcinoma squamoso       0.66      0.74      0.70       861
+
+          accuracy                           0.75      2577
+         macro avg       0.75      0.75      0.74      2577
+      weighted avg       0.74      0.75      0.74      2577
+
+Fold Accuracy: 74.58%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 10 - SUMMARY
+Mean Fold Accuracy: 74.88% ± 1.12
+====================================================================================================
+[pca_data_2342_0.05] Config 11 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.68      0.64      0.66       861
+            beigno       0.88      0.93      0.90       855
+carcinoma squamoso       0.69      0.70      0.70       862
+
+          accuracy                           0.76      2578
+         macro avg       0.75      0.76      0.76      2578
+      weighted avg       0.75      0.76      0.75      2578
+
+Fold Accuracy: 75.68%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 11 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.67      0.64      0.65       861
+            beigno       0.88      0.92      0.90       855
+carcinoma squamoso       0.69      0.69      0.69       862
+
+          accuracy                           0.75      2578
+         macro avg       0.75      0.75      0.75      2578
+      weighted avg       0.75      0.75      0.75      2578
+
+Fold Accuracy: 74.79%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 11 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.68      0.55      0.61       862
+            beigno       0.93      0.89      0.91       854
+carcinoma squamoso       0.64      0.79      0.71       862
+
+          accuracy                           0.74      2578
+         macro avg       0.75      0.74      0.74      2578
+      weighted avg       0.75      0.74      0.74      2578
+
+Fold Accuracy: 74.09%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 11 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.69      0.63      0.66       862
+            beigno       0.90      0.92      0.91       854
+carcinoma squamoso       0.69      0.73      0.71       861
+
+          accuracy                           0.76      2577
+         macro avg       0.76      0.76      0.76      2577
+      weighted avg       0.76      0.76      0.76      2577
+
+Fold Accuracy: 75.94%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 11 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.67      0.60      0.63       862
+            beigno       0.87      0.94      0.90       854
+carcinoma squamoso       0.69      0.70      0.69       861
+
+          accuracy                           0.75      2577
+         macro avg       0.74      0.75      0.74      2577
+      weighted avg       0.74      0.75      0.74      2577
+
+Fold Accuracy: 74.66%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 11 - SUMMARY
+Mean Fold Accuracy: 75.03% ± 0.68
+====================================================================================================
+[pca_data_2342_0.05] Config 12 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.69      0.67      0.68       861
+            beigno       0.88      0.94      0.91       855
+carcinoma squamoso       0.72      0.71      0.72       862
+
+          accuracy                           0.77      2578
+         macro avg       0.77      0.77      0.77      2578
+      weighted avg       0.77      0.77      0.77      2578
+
+Fold Accuracy: 77.08%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 12 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.61      0.62      0.61       861
+            beigno       0.93      0.86      0.89       855
+carcinoma squamoso       0.66      0.69      0.67       862
+
+          accuracy                           0.72      2578
+         macro avg       0.73      0.72      0.73      2578
+      weighted avg       0.73      0.72      0.73      2578
+
+Fold Accuracy: 72.38%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 12 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.64      0.63      0.64       862
+            beigno       0.95      0.88      0.91       854
+carcinoma squamoso       0.67      0.73      0.70       862
+
+          accuracy                           0.75      2578
+         macro avg       0.75      0.75      0.75      2578
+      weighted avg       0.75      0.75      0.75      2578
+
+Fold Accuracy: 74.67%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 12 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.69      0.67      0.68       862
+            beigno       0.92      0.92      0.92       854
+carcinoma squamoso       0.71      0.74      0.73       861
+
+          accuracy                           0.78      2577
+         macro avg       0.78      0.78      0.78      2577
+      weighted avg       0.78      0.78      0.78      2577
+
+Fold Accuracy: 77.65%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 12 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.63      0.58      0.60       862
+            beigno       0.93      0.88      0.91       854
+carcinoma squamoso       0.65      0.75      0.70       861
+
+          accuracy                           0.73      2577
+         macro avg       0.74      0.74      0.74      2577
+      weighted avg       0.74      0.73      0.74      2577
+
+Fold Accuracy: 73.46%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 12 - SUMMARY
+Mean Fold Accuracy: 75.05% ± 2.03
+====================================================================================================
+[pca_data_2342_0.05] Config 13 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.65      0.67      0.66       861
+            beigno       0.88      0.92      0.90       855
+carcinoma squamoso       0.70      0.65      0.68       862
+
+          accuracy                           0.75      2578
+         macro avg       0.75      0.75      0.75      2578
+      weighted avg       0.75      0.75      0.75      2578
+
+Fold Accuracy: 74.75%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 13 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.65      0.64      0.65       861
+            beigno       0.87      0.91      0.89       855
+carcinoma squamoso       0.68      0.66      0.67       862
+
+          accuracy                           0.74      2578
+         macro avg       0.73      0.74      0.74      2578
+      weighted avg       0.73      0.74      0.74      2578
+
+Fold Accuracy: 73.66%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 13 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.65      0.64      0.64       862
+            beigno       0.91      0.89      0.90       854
+carcinoma squamoso       0.68      0.71      0.69       862
+
+          accuracy                           0.74      2578
+         macro avg       0.75      0.74      0.75      2578
+      weighted avg       0.75      0.74      0.75      2578
+
+Fold Accuracy: 74.44%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 13 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.65      0.70      0.67       862
+            beigno       0.94      0.88      0.91       854
+carcinoma squamoso       0.70      0.69      0.70       861
+
+          accuracy                           0.76      2577
+         macro avg       0.76      0.76      0.76      2577
+      weighted avg       0.76      0.76      0.76      2577
+
+Fold Accuracy: 75.55%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 13 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.68      0.55      0.61       862
+            beigno       0.92      0.90      0.91       854
+carcinoma squamoso       0.65      0.79      0.71       861
+
+          accuracy                           0.74      2577
+         macro avg       0.75      0.74      0.74      2577
+      weighted avg       0.75      0.74      0.74      2577
+
+Fold Accuracy: 74.43%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 13 - SUMMARY
+Mean Fold Accuracy: 74.57% ± 0.61
+====================================================================================================
+[pca_data_2342_0.05] Config 14 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.68      0.67      0.68       861
+            beigno       0.90      0.93      0.92       855
+carcinoma squamoso       0.71      0.69      0.70       862
+
+          accuracy                           0.77      2578
+         macro avg       0.76      0.77      0.76      2578
+      weighted avg       0.76      0.77      0.76      2578
+
+Fold Accuracy: 76.57%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 14 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.68      0.65      0.66       861
+            beigno       0.88      0.93      0.90       855
+carcinoma squamoso       0.70      0.69      0.69       862
+
+          accuracy                           0.75      2578
+         macro avg       0.75      0.75      0.75      2578
+      weighted avg       0.75      0.75      0.75      2578
+
+Fold Accuracy: 75.45%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 14 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.62      0.71      0.66       862
+            beigno       0.95      0.86      0.90       854
+carcinoma squamoso       0.71      0.67      0.69       862
+
+          accuracy                           0.75      2578
+         macro avg       0.76      0.75      0.75      2578
+      weighted avg       0.76      0.75      0.75      2578
+
+Fold Accuracy: 74.55%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 14 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.63      0.73      0.68       862
+            beigno       0.92      0.91      0.91       854
+carcinoma squamoso       0.73      0.62      0.67       861
+
+          accuracy                           0.75      2577
+         macro avg       0.76      0.75      0.75      2577
+      weighted avg       0.76      0.75      0.75      2577
+
+Fold Accuracy: 75.32%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 14 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.65      0.66      0.66       862
+            beigno       0.90      0.92      0.91       854
+carcinoma squamoso       0.70      0.68      0.69       861
+
+          accuracy                           0.75      2577
+         macro avg       0.75      0.75      0.75      2577
+      weighted avg       0.75      0.75      0.75      2577
+
+Fold Accuracy: 75.32%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 14 - SUMMARY
+Mean Fold Accuracy: 75.44% ± 0.65
+====================================================================================================
+[pca_data_2342_0.05] Config 15 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.58      0.72      0.64       861
+            beigno       0.94      0.87      0.91       855
+carcinoma squamoso       0.69      0.57      0.63       862
+
+          accuracy                           0.72      2578
+         macro avg       0.74      0.72      0.72      2578
+      weighted avg       0.74      0.72      0.72      2578
+
+Fold Accuracy: 72.15%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 15 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.66      0.70      0.68       861
+            beigno       0.91      0.92      0.91       855
+carcinoma squamoso       0.72      0.68      0.70       862
+
+          accuracy                           0.77      2578
+         macro avg       0.77      0.77      0.77      2578
+      weighted avg       0.77      0.77      0.77      2578
+
+Fold Accuracy: 76.57%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 15 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.55      0.19      0.28       862
+            beigno       0.95      0.90      0.92       854
+carcinoma squamoso       0.52      0.90      0.66       862
+
+          accuracy                           0.66      2578
+         macro avg       0.68      0.66      0.62      2578
+      weighted avg       0.68      0.66      0.62      2578
+
+Fold Accuracy: 66.02%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 15 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.61      0.77      0.68       862
+            beigno       0.89      0.93      0.91       854
+carcinoma squamoso       0.76      0.52      0.62       861
+
+          accuracy                           0.74      2577
+         macro avg       0.75      0.74      0.74      2577
+      weighted avg       0.75      0.74      0.74      2577
+
+Fold Accuracy: 74.19%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 15 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.66      0.53      0.58       862
+            beigno       0.97      0.87      0.92       854
+carcinoma squamoso       0.63      0.82      0.72       861
+
+          accuracy                           0.74      2577
+         macro avg       0.75      0.74      0.74      2577
+      weighted avg       0.75      0.74      0.74      2577
+
+Fold Accuracy: 74.08%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 15 - SUMMARY
+Mean Fold Accuracy: 72.60% ± 3.58
+====================================================================================================
+[pca_data_2342_0.05] Config 16 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.58      0.46      0.52       861
+            beigno       0.91      0.92      0.91       855
+carcinoma squamoso       0.59      0.70      0.64       862
+
+          accuracy                           0.69      2578
+         macro avg       0.69      0.69      0.69      2578
+      weighted avg       0.69      0.69      0.69      2578
+
+Fold Accuracy: 69.43%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 16 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.58      0.60      0.59       861
+            beigno       0.89      0.93      0.91       855
+carcinoma squamoso       0.63      0.59      0.61       862
+
+          accuracy                           0.70      2578
+         macro avg       0.70      0.70      0.70      2578
+      weighted avg       0.70      0.70      0.70      2578
+
+Fold Accuracy: 70.29%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 16 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.64      0.75      0.69       862
+            beigno       0.91      0.93      0.92       854
+carcinoma squamoso       0.76      0.60      0.67       862
+
+          accuracy                           0.76      2578
+         macro avg       0.77      0.76      0.76      2578
+      weighted avg       0.77      0.76      0.76      2578
+
+Fold Accuracy: 76.03%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 16 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.67      0.71      0.69       862
+            beigno       0.91      0.92      0.91       854
+carcinoma squamoso       0.73      0.68      0.71       861
+
+          accuracy                           0.77      2577
+         macro avg       0.77      0.77      0.77      2577
+      weighted avg       0.77      0.77      0.77      2577
+
+Fold Accuracy: 77.03%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 16 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.63      0.64      0.64       862
+            beigno       0.94      0.89      0.91       854
+carcinoma squamoso       0.68      0.71      0.70       861
+
+          accuracy                           0.75      2577
+         macro avg       0.75      0.75      0.75      2577
+      weighted avg       0.75      0.75      0.75      2577
+
+Fold Accuracy: 74.66%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 16 - SUMMARY
+Mean Fold Accuracy: 73.49% ± 3.07
+====================================================================================================
+[pca_data_2342_0.05] Config 1 - Fold 1
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.65      0.71      0.68       861
+            beigno       0.95      0.89      0.92       855
+carcinoma squamoso       0.73      0.71      0.72       862
+
+          accuracy                           0.77      2578
+         macro avg       0.78      0.77      0.77      2578
+      weighted avg       0.78      0.77      0.77      2578
+
+Fold Accuracy: 76.92%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 1 - Fold 2
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.59      0.62      0.61       861
+            beigno       0.91      0.90      0.91       855
+carcinoma squamoso       0.65      0.61      0.63       862
+
+          accuracy                           0.71      2578
+         macro avg       0.71      0.71      0.71      2578
+      weighted avg       0.71      0.71      0.71      2578
+
+Fold Accuracy: 71.22%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 1 - Fold 3
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.56      0.30      0.39       862
+            beigno       0.92      0.90      0.91       854
+carcinoma squamoso       0.55      0.81      0.65       862
+
+          accuracy                           0.67      2578
+         macro avg       0.68      0.67      0.65      2578
+      weighted avg       0.68      0.67      0.65      2578
+
+Fold Accuracy: 67.07%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 1 - Fold 4
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.65      0.77      0.71       862
+            beigno       0.94      0.91      0.92       854
+carcinoma squamoso       0.76      0.65      0.70       861
+
+          accuracy                           0.77      2577
+         macro avg       0.78      0.78      0.78      2577
+      weighted avg       0.78      0.77      0.78      2577
+
+Fold Accuracy: 77.49%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 1 - Fold 5
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.57      0.38      0.45       862
+            beigno       0.94      0.90      0.92       854
+carcinoma squamoso       0.57      0.78      0.66       861
+
+          accuracy                           0.69      2577
+         macro avg       0.69      0.69      0.68      2577
+      weighted avg       0.69      0.69      0.68      2577
+
+Fold Accuracy: 68.61%
+--------------------------------------------------------------------------------
+[pca_data_2342_0.05] Config 1 - SUMMARY
+Mean Fold Accuracy: 72.26% ± 4.25
+====================================================================================================
+[pca_data_2342_0.05] Config 1
+Test Accuracy: 85.82%
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.86      0.67      0.76       734
+           benigno       0.99      0.96      0.97       728
+carcinoma squamoso       0.76      0.94      0.84       788
+
+          accuracy                           0.86      2250
+         macro avg       0.87      0.86      0.86      2250
+      weighted avg       0.87      0.86      0.86      2250
+
+Confusion Matrix:
+[[495   6 233]
+ [ 30 698   0]
+ [ 50   0 738]]
+Specificities:
+adenocarcinoma: 0.9472
+benigno: 0.9961
+carcinoma squamoso: 0.8406
+================================================================================
+[pca_data_2342_0.05] Config 1
+Test Accuracy: 85.82%
+                    precision    recall  f1-score   support
+
+    adenocarcinoma       0.86      0.67      0.76       734
+           benigno       0.99      0.96      0.97       728
+carcinoma squamoso       0.76      0.94      0.84       788
+
+          accuracy                           0.86      2250
+         macro avg       0.87      0.86      0.86      2250
+      weighted avg       0.87      0.86      0.86      2250
+
+Confusion Matrix:
+[[495   6 233]
+ [ 30 698   0]
+ [ 50   0 738]]
+Specificities:
+adenocarcinoma: 0.9472
+benigno: 0.9961
+carcinoma squamoso: 0.8406
+================================================================================
