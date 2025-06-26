@@ -12,5 +12,4 @@ Data
 .python-version
 uv.lock
 main.py
-*.png
 *.pth
